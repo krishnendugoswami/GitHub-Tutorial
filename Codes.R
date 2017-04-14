@@ -1,4 +1,2 @@
 names(mtcars)
-dim(mtcars)
-
-
+dimaloo(mtcars)
